@@ -1,0 +1,25 @@
+.content {
+    margin-top: 60px;
+}
+.panel-wrapper {
+    padding: 0 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.panel-content {
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 5px 15px;
+    min-height: 100px;
+}
+.message {
+    font-size: 1.4em;
+    margin: 0 auto;
+}
+.author {
+    font-size: 0.9em;
+    text-align: left;
+}
+.footer {
+    padding-top: 20px;
+}
